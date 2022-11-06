@@ -11,7 +11,12 @@ function sleep(ms) {
   const page = await browser.newPage();
   await page.goto('https://ionicabizau.github.io/github-profile-languages/api.html?xTriixrx');
   await sleep(10000);
-  await page.screenshot({ path: 'language-graph.png' });
+  await page.screenshot({ path: 'language-graph-light.png' });
+
+  await page.emulateMediaFeatures([{
+    name: 'prefers-color-scheme', value: 'dark' }]);
+  await sleep(10000);
+  await page.screenshot({path: `language-graph-dark.png` });
 
   await browser.close();
 })();
