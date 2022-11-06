@@ -13,8 +13,7 @@ function sleep(ms) {
   await sleep(10000);
   await page.screenshot({ path: 'language-graph-light.png' });
 
-  await page.emulateMediaFeatures([{
-    name: 'prefers-color-scheme', value: 'dark' }]);
+  await page.addStyleTag({path: 'style.css'});
   await sleep(10000);
   await page.screenshot({path: `language-graph-dark.png` });
 
