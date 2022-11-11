@@ -27,16 +27,8 @@ jobs:
         run: npm install
       - name: Generate LANGUAGE Image file
         run: node index.js
-      - name: Commit & Push new Language Images to repo
-        run: |
-          git add *.png
-          git commit -m "Automated push"
-          git push
+      - name: Commit and Push new LANGUAGE Image to the repository
+        uses: devops-infra/action-commit-push@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'master'
-      # - name: Commit and Push new LANGUAGE Image to the repository
-      #   uses: mikeal/publish-to-github-action@master
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #     BRANCH_NAME: 'master'
+          COMMIT_MESSAGE: Automated Language Chart Update
