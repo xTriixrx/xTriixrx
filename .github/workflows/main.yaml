@@ -31,24 +31,24 @@ jobs:
 
     steps:
       - name: Checkout current repository to Master branch
-          uses: actions/checkout@v3
-        - name: Setup NodeJs 16.x
-          uses: actions/setup-node@v3
-          with:
-            node-version: 16
-        - name: Cache dependencies and build outputs to improve workflow execution time.
-          uses: actions/cache@v3
-          with:
-            path: node_modules
-            key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-        - name: Install dependencies
-          run: |
-            npm install
-            npx playwright install
-        - name: Generate LANGUAGE Image file
-          run: node index.js
-        - name: Commit and Push new LANGUAGE Image to the repository
-          uses: devops-infra/action-commit-push@master
-          with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-            commit_message: Automated Language Chart Update
+        uses: actions/checkout@v3
+      - name: Setup NodeJs 16.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Cache dependencies and build outputs to improve workflow execution time.
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: |
+          npm install
+          npx playwright install
+      - name: Generate LANGUAGE Image file
+        run: node index.js
+      - name: Commit and Push new LANGUAGE Image to the repository
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: Automated Language Chart Update
