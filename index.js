@@ -1,4 +1,7 @@
 const puppeteer = require('puppeteer');
+const darkImage = `language-graph-dark.png`;
+const lightImage = 'language-graph-light.png';
+const profileLangPage = 'https://ionicabizau.github.io/github-profile-languages/api.html?xTriixrx';
 
 function sleep(ms) {
   return new Promise((resolve) => {
@@ -9,12 +12,19 @@ function sleep(ms) {
 (async () => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  await page.goto('https://ionicabizau.github.io/github-profile-languages/api.html?xTriixrx');
+  
+  console.log("Going to Language Chart Page at: " + profileLangPage);
+  
+  await page.goto(profileLangPage);
   await sleep(10000);
-  await page.screenshot({ path: 'language-graph-light.png' });
+  await page.screenshot({ path: lightImage });
+
+  console.log("Screenshotted : " + lightImage);
 
   await sleep(10000);
-  await page.screenshot({path: `language-graph-dark.png` });
+  await page.screenshot({path: darkImage });
 
+  console.log("Screenshotted : " + lightImage);
+  
   await browser.close();
 })();
