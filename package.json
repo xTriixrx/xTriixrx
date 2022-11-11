@@ -20,7 +20,7 @@
   },
   "homepage": "https://www.example.com",
   "dependencies": {
-    "node-fetch": "@latest",
-    "puppeteer": "@latest"
+    "node-fetch": "latest",
+    "puppeteer": "latest"
   }
 }
