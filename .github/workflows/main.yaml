@@ -14,6 +14,17 @@ jobs:
     steps:
       - name: Checkout current repository to Master branch
         uses: actions/checkout@v3
+      - name: Remove old language-graph.png file
+        run: |
+          echo "Removing old Languages Chart"
+          rm language-graph.png
+      - name: Commit and Push Removed Language Image to the repository
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: Automated Language Chart Removal
+      - name: Checkout current repository to Master branch
+        uses: actions/checkout@v3
       - name: Setup NodeJs 16.x
         uses: actions/setup-node@v3
         with:
@@ -28,13 +39,7 @@ jobs:
           npm install
           npx playwright install
       - name: Generate LANGUAGE Image file
-        run: |
-          echo "Removing old Languages Chart"
-          ls -al
-          rm language-graph.png
-          ls -al
-          node index.js
-          ls -al
+        run: node index.js
       - name: Commit and Push new LANGUAGE Image to the repository
         uses: devops-infra/action-commit-push@master
         with:
