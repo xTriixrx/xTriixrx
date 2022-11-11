@@ -1,6 +1,6 @@
-const puppeteer = require('puppeteer');
-const darkImage = `language-graph-dark.png`;
-const lightImage = 'language-graph-light.png';
+const FIVE_SEC = 5000;
+const image = 'language-graph.png';
+const { chromium } = require("playwright");
 const profileLangPage = 'https://ionicabizau.github.io/github-profile-languages/api.html?xTriixrx';
 
 function sleep(ms) {
@@ -10,25 +10,12 @@ function sleep(ms) {
 }
 
 (async () => {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  
-  console.log("Going to Language Chart Page at: " + profileLangPage);
-  
+  let browser = await chromium.launch();
+ 
+  let page = await browser.newPage();
   await page.goto(profileLangPage);
-  await sleep(10000);
-  await page.screenshot({ path: lightImage });
-
-  console.log("Screenshotted : " + lightImage);
-
-  await sleep(10000);
-  await page.screenshot({path: darkImage });
-
-  console.log("Screenshotted : " + lightImage);
-  
+  await page.setViewportSize({ width: 750, height: 750 });
+  await sleep(FIVE_SEC);
+  await page.screenshot({ path: image });
   await browser.close();
-
-  const fs = require('fs');
-  const data = "Testing pushing...";
-  fs.writeFile('Test.txt', data, (err) => { if (err) throw err; });
 })();
