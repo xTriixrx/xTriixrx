@@ -26,7 +26,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: Automated Language Chart Removal
   build-image:
-    needs: remove-image:
+    needs: remove-image
     runs-on: ubuntu-latest
 
     steps:
