@@ -8,7 +8,7 @@ on:
     - cron: '0 */6 * * *'
 
 jobs:
-  build:
+  change-and-push:
     runs-on: ubuntu-latest
 
     steps:
@@ -29,6 +29,6 @@ jobs:
         run: node index.js
       - name: Commit and Push new LANGUAGE Image to the repository
         uses: devops-infra/action-commit-push@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MESSAGE: Automated Language Chart Update
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: Automated Language Chart Update
