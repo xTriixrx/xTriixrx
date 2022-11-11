@@ -21,7 +21,6 @@
   "homepage": "https://github.com/xTriixrx/",
   "dependencies": {
     "node-fetch": "latest",
-    "playwright": "^1.27.1",
-    "puppeteer": "latest"
+    "playwright": "^1.27.1"
   }
 }
