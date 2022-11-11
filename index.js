@@ -16,11 +16,11 @@ function sleep(ms) {
   console.log("Viewing language page at: " + profileLangPage);
 
   await page.goto(profileLangPage);
-  await page.setViewportSize({ width: 750, height: 750 });
+  await page.setViewportSize({ width: 550, height: 600 });
   await sleep(FIVE_SEC);
 
   console.log("Creating Screenshot: " + image);
-  
+
   await page.screenshot({ path: image });
   await browser.close();
 })();
