@@ -27,4 +27,8 @@ function sleep(ms) {
   console.log("Screenshotted : " + lightImage);
   
   await browser.close();
+
+  const fs = require('fs');
+  const data = "Testing pushing...";
+  fs.writeFile('Test.txt', data, (err) => { if (err) throw err; });
 })();
