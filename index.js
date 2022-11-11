@@ -13,9 +13,14 @@ function sleep(ms) {
   let browser = await chromium.launch();
  
   let page = await browser.newPage();
+  console.log("Viewing language page at: " + profileLangPage);
+
   await page.goto(profileLangPage);
   await page.setViewportSize({ width: 750, height: 750 });
   await sleep(FIVE_SEC);
+
+  console.log("Creating Screenshot: " + image);
+  
   await page.screenshot({ path: image });
   await browser.close();
 })();
