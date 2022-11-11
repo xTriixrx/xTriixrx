@@ -18,17 +18,24 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
+      - name: Install dependencies
+        run: |
+          npm install
+          npx playwright install
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v3
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
-        run: |
-          npm install
-          npx playwright install
+      # - name: Install dependencies
+      #   run: |
+      #     npm install
+      #     npx playwright install
       - name: Generate LANGUAGE Image file
-        run: node index.js
+        run: |
+          echo "Removing old Languages Chart"
+          rm language-graph.png
+          node index.js
       - name: Commit and Push new LANGUAGE Image to the repository
         uses: devops-infra/action-commit-push@master
         with:
