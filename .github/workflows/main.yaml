@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/1 * * * *'
 
 jobs:
   remove-image:
@@ -25,8 +25,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: Automated Language Chart Removal
-      - name: Wait 10 seconds for remote to update
-        run: sleep 10
+      - name: Wait 30 seconds for remote to update
+        run: sleep 30
   build-image:
     needs: remove-image
     runs-on: ubuntu-latest
