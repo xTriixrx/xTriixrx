@@ -1,9 +1,6 @@
 name: LANGUAGE Image & Chess.com
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: '* */6 * * *'
 
