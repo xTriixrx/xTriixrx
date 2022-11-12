@@ -65,6 +65,24 @@
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
+| Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
+|:---:|:---:|:---:|:---:|
+| Current | 871 | 419 | 220 |
+| Best | 895 | 684 | 370 |
+
+| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| selz46 | **xTriixrx** | win 🥇 | 5/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1b4k1/1P4pp/p7/P7/6P1/2K4P/8/3q4 w - -">Link</a> | Rapid |
+| **xTriixrx** | Ahuminium | win 🥇 | 5/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/pN3rpp/2p5/1p6/1B6/5PP1/Q5KP/R4R2 b - -">Link</a> | Rapid |
+| Ythrym | **xTriixrx** | resigned ❌ | 4/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r1r2/ppp1qp2/2N5/Q1b3pn/3p1n2/PB1P2B1/1PP2PP1/2K1R1R1 b - -">Link</a> | Rapid |
+| Youtan11 | **xTriixrx** | resigned ❌ | 4/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Qn2kb1r/p1p1qppp/8/4N1n1/3P4/8/PP3PPP/RNB1K2R b KQk -">Link</a> | Rapid |
+| kimukm9 | **xTriixrx** | checkmated ❌ | 4/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2krr3/2Q4p/1p3p2/1Nbq2p1/8/4p3/1PP4P/1K2R2R b - -">Link</a> | Rapid |
+| **xTriixrx** | JUN-jun1 | win 🥇 | 4/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k3/pp1p2pp/3Qn3/8/2B5/2N1B3/PPP3PP/4R1K1 b - -">Link</a> | Rapid |
+| mattdods | **xTriixrx** | checkmated ❌ | 3/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k1Q5/p7/1p6/1Pp5/q1P5/7P/5PPK/8 b - -">Link</a> | Rapid |
+| **xTriixrx** | BolzaW | resigned ❌ | 3/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p3rp1p/3R2p1/1p3b2/8/8/PPrKBP1P/7R w - -">Link</a> | Rapid |
+| **xTriixrx** | Visabeira | resigned ❌ | 3/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5pbp/1N2p1p1/2p1P3/5P2/8/rPP2P1P/3r2K1 w - -">Link</a> | Rapid |
+| **xTriixrx** | sephirothdu27 | win 🥇 | 3/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppq2ppp/2p5/2b2B2/3Np1Q1/2P5/PP1B1PPP/R4RK1 b - -">Link</a> | Rapid |
+
 <!--END_SECTION:chessStats-->
 
 <!-- Dev Joke -->
