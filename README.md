@@ -52,10 +52,8 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://devicons.railway.app/i/archlinux.svg" alt="arch" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.
-githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://raw.
-githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/> </a>
@@ -73,7 +71,7 @@ githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" 
 <!-- Footer -->
 <div align="center">
 
-[![HitCount](https://hits.dwyl.com/xTriixrx/xTriixrx.svg)](http://hits.dwyl.com/xTriixrx/xTriixrx)
+[![HitCount](https://hits.dwyl.com/xTriixrx/xTriixrx.svg?style=flat-square&show=unique)](http://hits.dwyl.com/xTriixrx/xTriixrx)
 
 <a href="https://www.linkedin.com/in/vincent-nigro-243a00177/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://dev.to/xtriixrx" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
