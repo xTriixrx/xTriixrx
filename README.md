@@ -4,8 +4,6 @@
 
 </p>
 
----
-
 ## Github Trophies
 
 <p align="center">
@@ -36,7 +34,6 @@
 <!-- Dev Joke -->
 <div align="center">
 
-<br />
 <i>A dev joke for making it this far!</i>
 
 <img href="https://readme-jokes.vercel.app/" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="ReadMe Jokes">
