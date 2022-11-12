@@ -1,8 +1,24 @@
 <img src="https://github.com/xTriixrx/xTriixrx/raw/master/resources/line-neon.gif" width="100%">
 
 <p align="center">
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1250&color=B49BF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vinny;Software+Engineer;Enjoy+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
+
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+<img align='right' src="https://media.giphy.com/media/DsDtZSnCC3PZL3lbbW/giphy.gif" width="200">
+
+## About me
+
+- Currently working at **Kratos Defense & Security Solutions**.
+- Specialize in **Microservice Architecture, Middleware Design, & Satellite Communications**.
+- 2019 Graduate of **Salisbury University** with a Bachelor's in **Computer Science**.
+- My GitHub is for personal projects, learning new tools/languages, & contributing to the open source community!
+- Moving to Colorado Springs, Colorado in 2023!
+- Feel free to reach out to me at my pinned socials below.
+
+<br />
 
 ## Github Trophies
 
@@ -10,6 +26,19 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=xTriixrx&column=2&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="xTriixrx" />
 </a>
+</p>
+
+## Top Repositories
+
+<p align="left">
+  <a href="https://github.com/xTriixrx?tab=repositories">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=xTriixrx&repo=satpy-scrapy&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=xTriixrx&repo=DLX&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=xTriixrx&repo=animation.js&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=xTriixrx&repo=BitMapC&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=xTriixrx&repo=Conways-Game-of-Life&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=xTriixrx&repo=Battleship&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ## Active Languages Chart
@@ -30,6 +59,13 @@
   </a>
 </p>
 <br>
+
+## Latest matches on Chess.com
+
+<!--START_SECTION:chessStats-->
+<!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
+
+<!--END_SECTION:chessStats-->
 
 <!-- Dev Joke -->
 <div align="center">
@@ -70,9 +106,12 @@
 
 <!-- Footer -->
 <div align="center">
+<br/>
 
 [![HitCount](https://hits.dwyl.com/xTriixrx/xTriixrx.svg?style=flat-square&show=unique)](http://hits.dwyl.com/xTriixrx/xTriixrx)
 
-<a href="https://www.linkedin.com/in/vincent-nigro-243a00177/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://dev.to/xtriixrx" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://www.linkedin.com/in/vincent-nigro-243a00177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://dev.to/xtriixrx" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=for-the-badge&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
+<i>The key to immortality is living a life worth remembering. - Bruce Lee</i>
 </div>

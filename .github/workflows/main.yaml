@@ -57,3 +57,23 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: Automated Language Chart Update
+
+name: Chess Stats Action
+
+on:
+  push:
+      branches:
+        - master
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update readme with your chess stats and games
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Balastrong/chess-stats-action@master
+        with:
+          CHESS_USERNAME: xTriixrx
