@@ -9,7 +9,7 @@
 
 <img align='right' src="https://media.giphy.com/media/DsDtZSnCC3PZL3lbbW/giphy.gif" width="200">
 
-## About me
+## About Me
 
 - Currently working at **Kratos Defense & Security Solutions**.
 - Specialize in **Microservice Architecture, Middleware Design, & Satellite Communications**.
