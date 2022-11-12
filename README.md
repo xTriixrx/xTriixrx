@@ -5,7 +5,8 @@
 </p>
 
 <p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="175" height="175
+" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <img align='right' src="https://media.giphy.com/media/DsDtZSnCC3PZL3lbbW/giphy.gif" width="200">
 
@@ -60,8 +61,11 @@
 </p>
 <br>
 
-## Latest matches on Chess.com
+## Chess Statistics
 
+- **Just started to learn chess recently and figured I would share my progress on Chess.com.**
+
+<div align="center">
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
@@ -84,6 +88,9 @@
 | **xTriixrx** | sephirothdu27 | win 🥇 | 3/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppq2ppp/2p5/2b2B2/3Np1Q1/2P5/PP1B1PPP/R4RK1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
+</div>
+
+<br />
 
 <!-- Dev Joke -->
 <div align="center">
