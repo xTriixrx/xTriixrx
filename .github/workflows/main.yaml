@@ -2,7 +2,7 @@ name: LANGUAGE Image & Chess.com
 
 on:
   schedule:
-    - cron: '* */6 * * *'
+    - cron: '45 23 * * 0' # Execute cron every Sunday at 11:45PM
 
 jobs:
   remove-image:
