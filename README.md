@@ -71,21 +71,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 960 | 601 | 220 |
-| Best | 960 | 684 | 370 |
+| Current | 921 | 603 | 220 |
+| Best | 988 | 684 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| kapatroni88 | **xTriixrx** | win 🥇 | 11/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/1p4pp/p7/4q3/3p2Q1/5RKP/PPP5/8 w - -">Link</a> | Rapid |
-| **xTriixrx** | Piti2019 | win 🥇 | 11/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p5/1q1p2Q1/4p3/8/P1P5/1P3RPP/1R4K1 b - -">Link</a> | Rapid |
-| vrnchess | **xTriixrx** | win 🥇 | 11/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/ppp1kp2/3p3p/4rK2/PPP5/7R w - -">Link</a> | Rapid |
-| Mamapremium | **xTriixrx** | win 🥇 | 11/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/7p/3p3P/p5PR/6P1/6qK/8/4b3 w - -">Link</a> | Rapid |
-| **xTriixrx** | ColonCampeon2021 | win 🥇 | 11/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/p6k/1pq3p1/2p1B3/3p2pQ/3P4/P1P3PP/6K1 b - -">Link</a> | Rapid |
-| sixthsense20 | **xTriixrx** | checkmated ❌ | 11/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/ppp1bppQ/3pb3/3n2B1/8/3B4/PPP2PPP/RN2K1NR b KQ -">Link</a> | Rapid |
-| antonioteixeira60 | **xTriixrx** | win 🥇 | 11/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/7K/2k4r/6q1 w - -">Link</a> | Blitz |
-| **xTriixrx** | outotyypi | win 🥇 | 9/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6Q1/7k/5KRP/8/8/8/8 b - -">Link</a> | Rapid |
-| **xTriixrx** | muta_mam | repetition ⏸️ | 9/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/2p4p/5n2/1Q6/5q2/3PRP2/PPPK2P1/5r2 w - -">Link</a> | Rapid |
-| firmly213 | **xTriixrx** | win 🥇 | 9/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1qkb1r/1pp1pppp/p1n2n2/3p4/Q2P1B2/2PbP3/PP3PPP/RN2K1NR w KQk -">Link</a> | Rapid |
+| chlomi1 | **xTriixrx** | resigned ❌ | 18/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/3PP1p1/r1p4p/p1K2p1P/R4P2/2P5/2P5/4R3 b - -">Link</a> | Rapid |
+| **xTriixrx** | MotoMoto88 | checkmated ❌ | 18/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1n3k1/3p4/1B2pK1r/1P2P1p1/P2Pb3/2P1Nn2/R4R2 w - -">Link</a> | Rapid |
+| **xTriixrx** | 203to904 | checkmated ❌ | 18/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5pp/4p1q1/4P1K1/3r4/8/5PPP/7R w - -">Link</a> | Rapid |
+| **xTriixrx** | Start32 | checkmated ❌ | 18/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/7p/1p2R1p1/p7/2pPP1r1/3qK3/5P2/8 w - -">Link</a> | Rapid |
+| **xTriixrx** | BADAREEN0 | win 🥇 | 18/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Qk2/3Q4/8/6pp/8/6PP/5PK1/8 b - -">Link</a> | Rapid |
+| **xTriixrx** | SmartLaught | win 🥇 | 16/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/R2P4/8/8/2p4B/2P5/6PK/8 b - -">Link</a> | Rapid |
+| brysonom | **xTriixrx** | win 🥇 | 16/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/1p3pp1/p1q4p/2N5/1P1Q4/P2P1PPP/3n2K1/3R4 b - -">Link</a> | Rapid |
+| Kinano2 | **xTriixrx** | resigned ❌ | 16/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3k/p5p1/4Qp1p/3P4/4N3/4B3/P3R1PP/6K1 b - -">Link</a> | Rapid |
+| TravisHeinrichs | **xTriixrx** | resigned ❌ | 16/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K4pp/P3k3/8/5P2/7P/6P1/8 b - -">Link</a> | Rapid |
+| **xTriixrx** | AleksUrban | checkmated ❌ | 16/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/3P4/7r/8/8/5qPK/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
