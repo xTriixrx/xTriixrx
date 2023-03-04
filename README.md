@@ -16,7 +16,7 @@
 - Specialize in **Microservice Architecture, Middleware Design, & Satellite Communications**.
 - 2019 Graduate of **Salisbury University** with a Bachelor's in **Computer Science**.
 - My GitHub is for personal projects, learning new tools/languages, & contributing to the open source community!
-- Moving to Colorado Springs, Colorado in 2023!
+- Moved to Colorado Springs, Colorado in 2023!
 - Feel free to reach out to me at my pinned socials below.
 
 <br />
