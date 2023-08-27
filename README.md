@@ -71,11 +71,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1181 | 697 | 187 |
-| Best | 1181 | 748 | 370 |
+| Current | 1198 | 697 | 187 |
+| Best | 1198 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| SakurasolosIshiki | **xTriixrx** | win 🥇 | 25/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/8/6p1/1P2B2p/2P2P2/P6K/8 w - -">Link</a> | Rapid |
+| **xTriixrx** | JulinRios | win 🥇 | 22/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4k3/7P/5P2/6PK/8 b - -">Link</a> | Rapid |
 | MenaceDH | **xTriixrx** | win 🥇 | 20/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/7p/3p2p1/p4p2/8/q7/1r4PP/K1R2R2 w - -">Link</a> | Rapid |
 | **xTriixrx** | FelipeGo | win 🥇 | 19/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kb3r/2p5/pp1pPq1p/3P4/6Q1/7P/PP4P1/R1B2RK1 w - -">Link</a> | Rapid |
 | **xTriixrx** | flopps1582 | win 🥇 | 19/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/ppp1nppp/2np4/1B2p3/3PP3/2P2Q1P/PP3PP1/RNB1K2R b KQkq -">Link</a> | Rapid |
@@ -84,8 +86,6 @@
 | TokitoLordOfChess | **xTriixrx** | resigned ❌ | 18/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp5p/5p2/2rP2p1/P1PR4/4P1P1/1B5P/3R2K1 b - -">Link</a> | Rapid |
 | ninocharge | **xTriixrx** | checkmated ❌ | 18/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k1R2/p2r4/1p6/3NP1p1/2P3b1/8/PP4PK/8 b - -">Link</a> | Rapid |
 | **xTriixrx** | barcuzper | win 🥇 | 18/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2K5/kQ6/6p1/2p5/2P4p/3P4/8/8 b - -">Link</a> | Rapid |
-| rustamkondratov | **xTriixrx** | win 🥇 | 18/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/5pp1/7p/Q7/8/6P1/P1P2P1P/5K1q w - -">Link</a> | Rapid |
-| **xTriixrx** | Irdwk | resigned ❌ | 18/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k2p1/3p1b2/p2Rp1r1/P3P3/5P1q/6P1/6K1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
