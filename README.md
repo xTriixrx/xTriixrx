@@ -71,11 +71,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1098 | 697 | 187 |
+| Current | 1099 | 697 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| LeslyUmanzor | **xTriixrx** | win 🥇 | 1/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5ppp/1p2p3/2bp1q2/8/3R2PP/3R1P1K/5r2 w - -">Link</a> | Rapid |
+| ethant27 | **xTriixrx** | resigned ❌ | 1/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/5k2/R7/2N4p/1PP2K1B/P7/r7 b - -">Link</a> | Rapid |
 | **xTriixrx** | Kumarrishi45 | resigned ❌ | 26/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/ppp3pp/8/8/2B1b1P1/KP6/P4r2/7R b - -">Link</a> | Rapid |
 | **xTriixrx** | Roojar82 | win 🥇 | 26/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4Q3/6k1/6Qp/K5p1/8 b - -">Link</a> | Rapid |
 | dimiturdosev | **xTriixrx** | win 🥇 | 26/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/ppp2ppp/3p4/3Np1N1/2BnP1n1/3P1Q2/PPP1KbPP/R1B4R w - -">Link</a> | Rapid |
@@ -84,8 +86,6 @@
 | **xTriixrx** | aryanremains1990 | win 🥇 | 22/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/5p2/p4Q1B/1p3p1p/8/2P5/P1n3PP/5RK1 b - -">Link</a> | Rapid |
 | tiaanica | **xTriixrx** | resigned ❌ | 21/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P7/3K4/2p5/2k5/Bp6/8/8 b - -">Link</a> | Rapid |
 | **xTriixrx** | WarMyl | resigned ❌ | 21/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1pp3p1/p1bp2q1/6r1/8/1P3p2/1PP2RP1/R4QK1 w - -">Link</a> | Rapid |
-| vyvan2 | **xTriixrx** | resigned ❌ | 21/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/2b1R3/5pk1/1rB3p1/1P4Pp/3Q3P/5PK1/8 b - -">Link</a> | Rapid |
-| **xTriixrx** | drprasobh | checkmated ❌ | 21/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/1pp3pp/p7/3B4/2Q5/P2P4/1Pn2PPP/1NB1qK1R w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
