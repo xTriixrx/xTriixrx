@@ -71,11 +71,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1162 | 697 | 187 |
+| Current | 1180 | 697 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **xTriixrx** | fjColino | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/p2q1p2/1p2pBbQ/2b5/2BN4/8/PPP2P2/2KR2R1 b - -">Link</a> | Rapid |
+| DieMura | **xTriixrx** | win 🥇 | 11/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p1p2ppp/2p5/3p4/1b6/1PP2QPq/P4P1P/RN3K1R w - -">Link</a> | Rapid |
 | **xTriixrx** | ahelsaeed | win 🥇 | 8/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/6pk/7p/8/P7/2p5/4Q1PP/5R1K b - -">Link</a> | Rapid |
 | imtrashatchessnocappp | **xTriixrx** | win 🥇 | 8/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6K1/5Q2/8/6p1/6k1/8 w - -">Link</a> | Rapid |
 | kuchikuchi07 | **xTriixrx** | checkmated ❌ | 7/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1b3Qpp/1q1p4/2p1p1N1/1b2P3/3P4/2P2PPP/5RK1 b - -">Link</a> | Rapid |
@@ -84,8 +86,6 @@
 | jackmateblack | **xTriixrx** | win 🥇 | 7/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1pp2pp1/p6p/1b2P1b1/1Q4P1/R6P/1PP2P2/1q1K4 w - -">Link</a> | Rapid |
 | derickmutuma | **xTriixrx** | win 🥇 | 6/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/1bpQn1pk/pb5p/1p2p2n/1P6/N1P4P/P4Pq1/R1B2RK1 w - -">Link</a> | Rapid |
 | **xTriixrx** | Gerit123 | win 🥇 | 6/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkb1r/1pp2ppp/p2ppn2/8/3PPP2/2N2N2/PPP3PP/R1BQKB1R b KQkq -">Link</a> | Rapid |
-| iZafathe | **xTriixrx** | win 🥇 | 6/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/ppp2rp1/2p2r1p/3b4/3N4/P6P/1P3PP1/2R3K1 w - -">Link</a> | Rapid |
-| **xTriixrx** | hannaankhan | win 🥇 | 6/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/5p2/p3RnbQ/2p3R1/3p4/3P1N1P/PPP2PP1/6K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
