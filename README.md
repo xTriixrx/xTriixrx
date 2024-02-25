@@ -71,11 +71,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1102 | 697 | 187 |
+| Current | 1101 | 697 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| NobleSer | **xTriixrx** | resigned ❌ | 25/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/B1P1bppp/4b3/4Q3/p7/8/PP2BPPP/3R2K1 b - -">Link</a> | Rapid |
 | bumptybumpty | **xTriixrx** | win 🥇 | 17/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5P2/8/1k6/p7/K5r1 w - -">Link</a> | Rapid |
 | **xTriixrx** | benyamerican | resigned ❌ | 11/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p3p1p/2p5/2PpP1P1/8/r3nR1Q/3q2PP/R6K w - -">Link</a> | Rapid |
 | Escudeiro467 | **xTriixrx** | win 🥇 | 11/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p5pp/1p2p3/2p2r2/2P2pQP/1P1P1Pn1/P3q1P1/RR2K3 w - -">Link</a> | Rapid |
@@ -85,7 +86,6 @@
 | **xTriixrx** | paky0451 | win 🥇 | 28/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2P3k1/4Qnpp/p7/Pp6/5B2/5PPP/6K1 b - -">Link</a> | Rapid |
 | **xTriixrx** | tan4life | resigned ❌ | 28/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7p/4p1p1/2kp2P1/5P1P/3K4/8 w - -">Link</a> | Rapid |
 | teenagespartanninja | **xTriixrx** | win 🥇 | 28/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/1p1bQ3/2k1p3/3pP3/p7/1P6/P4rP1/1K1q4 w - -">Link</a> | Rapid |
-| leszekgd | **xTriixrx** | win 🥇 | 28/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6kp/1R6/2pr1r2/5p2/5P2/PP5K/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
