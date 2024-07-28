@@ -76,6 +76,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **xTriixrx** | miladpanahi1717 | win 🥇 | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5k2/3K2QQ/2P3pp/8/8 b - -">Link</a> | Rapid |
+| PBS777 | **xTriixrx** | resigned ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/pp1R3p/2k1KP2/8/P4P2/8 b - -">Link</a> | Rapid |
 | tigerslayer78 | **xTriixrx** | resigned ❌ | 21/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/1pp2pp1/2np3p/p1b1p2b/4P1PB/1BPP1N2/PP1N1P2/R2QK2R b KQ -">Link</a> | Rapid |
 | NobleSer | **xTriixrx** | timeout ❌ | 18/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2b1k2/1p3r2/3pRB1p/2p2K1P/2P3P1/PPP5/8 b - - 0 34">Link</a> | Daily |
 | **xTriixrx** | bluepike | win 🥇 | 17/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1N4k1/5ppp/1Q6/8/5P2/4P1P1/1p2BKP1/8 b - -">Link</a> | Rapid |
@@ -84,8 +86,6 @@
 | Douglas_Laio | **xTriixrx** | win 🥇 | 11/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p4k1/p4R2/Pr6/1P3K1P/8/8 w - -">Link</a> | Blitz |
 | jojojojojojobebe | **xTriixrx** | resigned ❌ | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3N4/3Kp3/2P2k2/8/8 b - -">Link</a> | Rapid |
 | **xTriixrx** | robot_sms | resigned ❌ | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4b3/4P3/3K4/1p1P1q2/2k5/2P5/8/8 w - -">Link</a> | Rapid |
-| andreferreira1604 | **xTriixrx** | win 🥇 | 7/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/ppp2p1p/6pB/5b2/3P4/2P5/P5PP/R4RK1 w - -">Link</a> | Rapid |
-| **xTriixrx** | giabou | resigned ❌ | 7/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pQ3p1p/6p1/3bb1q1/8/5R1P/PPB3P1/6K1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
