@@ -71,11 +71,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1162 | 702 | 187 |
+| Current | 1170 | 702 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **xTriixrx** | devendrarahi | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/1b3qpQ/p1p2p2/1p3P2/2Pp1B2/P2B3R/6PP/R5K1 b - -">Link</a> | Rapid |
+| Crushfan | **xTriixrx** | insufficient ⏸️ | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/6K1/8/k7/8 w - -">Link</a> | Rapid |
 | juancito2000 | **xTriixrx** | repetition ⏸️ | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R2rk1p1/5p1p/2p1pP1P/1p2P3/1P1PK3/8/8 w - -">Link</a> | Rapid |
 | **xTriixrx** | srob8791 | win 🥇 | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5K1k/8/7R/7P/8 b - -">Link</a> | Rapid |
 | king_sr | **xTriixrx** | resigned ❌ | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5ppk/3p2qp/3p4/3Pr3/5N1P/2Q2PP1/5RK1 w - -">Link</a> | Rapid |
@@ -84,8 +86,6 @@
 | Makeyourmove111 | **xTriixrx** | resigned ❌ | 3/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/2R3p1/1p5p/p2Q3N/8/2P4P/PP4PK/4q3 b - -">Link</a> | Rapid |
 | **xTriixrx** | Makeyourmove111 | win 🥇 | 3/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1k2Pp2/1R3P2/K5Pp/7P/8 b - -">Link</a> | Rapid |
 | hyuk4673 | **xTriixrx** | win 🥇 | 3/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p5kp/3p4/8/8/2P5/PP1q2PP/1K2r3 w - -">Link</a> | Rapid |
-| **xTriixrx** | PascualRestrepo87 | win 🥇 | 3/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/4pQB1/8/3R2k1/P3n3/5PP1/6K1 b - -">Link</a> | Rapid |
-| **xTriixrx** | A-Magical-Cookie | resigned ❌ | 2/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/pppp1ppp/2n5/4P3/5q2/2P2N2/PP2PPPP/RN1QKB1R w KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
