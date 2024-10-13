@@ -71,11 +71,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1081 | 702 | 187 |
+| Current | 1097 | 702 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| HuynhNguyenHoang | **xTriixrx** | win 🥇 | 11/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp1n1p2/7p/6p1/1NBq4/8/PP3PPP/4R1K1 w - -">Link</a> | Rapid |
+| **xTriixrx** | JefeDRoss | win 🥇 | 11/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/pp4B1/3b2Q1/2p4n/3P4/8/PP3PPP/R3R1K1 b - -">Link</a> | Rapid |
 | Alejandro_Emilio | **xTriixrx** | resigned ❌ | 27/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p1pp1pkp/b1p3p1/8/6N1/2q5/P1P2PPP/R2QR1K1 b - -">Link</a> | Rapid |
 | EL-Z3AAMA | **xTriixrx** | resigned ❌ | 27/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/2p1nN1p/p1pqbb2/8/5B2/2N3Q1/PPP2PPP/R4RK1 b - -">Link</a> | Rapid |
 | ispure100 | **xTriixrx** | checkmated ❌ | 24/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R1k/8/6K1/8/8/8/8/8 b - -">Link</a> | Rapid |
@@ -84,8 +86,6 @@
 | **xTriixrx** | martin_7l | win 🥇 | 24/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/pb4pp/4pp2/q7/Pp1PnN2/1PpB1N2/5PPP/R1BQ1RK1 b kq -">Link</a> | Rapid |
 | NithinSivadasan | **xTriixrx** | resigned ❌ | 22/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/2pq3p/Q5p1/2N1np2/8/2b1P1P1/PP3PP1/2K4R b - -">Link</a> | Rapid |
 | David1001000 | **xTriixrx** | win 🥇 | 20/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k1r5/1p5p/p2p3P/8/4P3/8/1r6/2qK4 w - -">Link</a> | Rapid |
-| **xTriixrx** | AllenGent | win 🥇 | 19/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/5k1K/8/8/8/8/8/8 b - -">Link</a> | Rapid |
-| **xTriixrx** | narigudooo | resigned ❌ | 19/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/1pp1k3/3b4/1P3R2/2K3P1/7r/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
