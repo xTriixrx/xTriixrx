@@ -71,21 +71,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 953 | 570 | 187 |
+| Current | 961 | 570 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ayamstewpeed | **xTriixrx** | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2r1/1pp1n2p/p1pb1p2/8/3P2q1/2P1BN2/PP3P2/R4RK1 w - - 0 19">Link</a> | Rapid |
-| khollyo | **xTriixrx** | abandoned  | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/3b2pp/8/1pb2p2/2p1qN2/2P1P3/4QBPP/4R1K1 b - - 5 26">Link</a> | Rapid |
-| Alchypit | **xTriixrx** | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p6/1P6/r4kpp/4p3/4R3/5K2 w - - 0 44">Link</a> | Rapid |
-| **xTriixrx** | Aeroluz | resigned ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pp3pp1/3b1n1p/3pN3/3q4/1P1B4/P4PPP/RN1Q1RK1 w - - 0 15">Link</a> | Rapid |
-| **xTriixrx** | MrCool3456789 | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3r1k/p1p4p/1p4p1/8/2BQ4/5P2/P1q3PP/R3R1K1 b - - 1 20">Link</a> | Rapid |
-| Price_Young | **xTriixrx** | resigned ❌ | 28/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2p2pp1/1b1p1n1p/1p2p3/1P2P3/1qPP2NP/1B2QPP1/RR4K1 b - - 3 19">Link</a> | Rapid |
-| **xTriixrx** | jurcacostel | repetition ⏸️ | 28/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7r/p4np1/1p1p2k1/3P2P1/P1PB1P2/5PK1/2R5 w - - 11 35">Link</a> | Rapid |
-| **xTriixrx** | sarcaster | win 🥇 | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/5p1p/3p2p1/1B1P3n/p3P3/PpP1Q2P/1P3PP1/R5K1 b - - 3 25">Link</a> | Rapid |
-| Todesrentner | **xTriixrx** | resigned ❌ | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2pp1/3bp1bp/8/2B5/P1N1B3/1PP2PPP/2RR2K1 b - - 0 16">Link</a> | Rapid |
-| **xTriixrx** | DH067 | agreed ⏸️ | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1">Link</a> | Rapid |
+| **xTriixrx** | galva75 | agreed ⏸️ | 12/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4k1p1/1p6/pP3P1P/P1r2P2/R4K2 b - - 10 47">Link</a> | Rapid |
+| **xTriixrx** | Nazariy123vfg | win 🥇 | 12/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/p1p1Qppp/1p3n2/3p4/2bP4/B4N2/P1P2PPP/R3KB1R b KQkq - 0 11">Link</a> | Rapid |
+| MAGJL47 | **xTriixrx** | resigned ❌ | 12/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1r2/1pp1b1pk/2n2npp/p2p2P1/3P4/2N1PN1P/PPQ2P1B/2KR3R b - - 0 16">Link</a> | Rapid |
+| foooooolo | **xTriixrx** | win 🥇 | 12/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4p2/1p4pp/n3N3/P1r3P1/7P/5P2/6K1 w - - 0 33">Link</a> | Rapid |
+| **xTriixrx** | KarenKarapetyan07 | win 🥇 | 12/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q2k/6pp/8/4N3/3P4/Pn2P3/1q3PPP/2r2RK1 b - - 2 25">Link</a> | Rapid |
+| **xTriixrx** | RomanSenenko | resigned ❌ | 12/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7R/3k4/8/3P1n2/1B1K4/P6r/8 w - - 1 32">Link</a> | Rapid |
+| jasaplusplus | **xTriixrx** | win 🥇 | 12/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/1pp1q1pp/n2p1p2/2b1P3/6b1/4P3/PBPP2PP/RN2KBNR w KQkq - 0 9">Link</a> | Rapid |
+| **xTriixrx** | yahiaibrahime | resigned ❌ | 11/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp2ppp/2n5/3n4/2Bp4/4P3/PP1B1PPP/R2QK1NR w KQkq - 0 8">Link</a> | Rapid |
+| Salvadorrrrrrrrrrrrrr | **xTriixrx** | resigned ❌ | 11/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1p3ppp/p2q4/3P4/NbB2R2/1P4P1/P1Q4P/7K b - - 0 24">Link</a> | Rapid |
+| gorillajawn | **xTriixrx** | win 🥇 | 11/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/1pp2pp1/3p3p/p1bPp3/4P1PP/P2P1n2/1P2N3/R2QKB1R w KQ - 0 15">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
