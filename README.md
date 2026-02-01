@@ -71,11 +71,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 965 | 570 | 187 |
+| Current | 957 | 570 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **xTriixrx** | lucasm1998 | resigned ❌ | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1r1kb/pp2pp1p/3p2pB/q2P4/4P1P1/PnN2P2/1P1Q2P1/2R2RK1 w - - 1 20">Link</a> | Rapid |
 | asvetsedipse | **xTriixrx** | checkmated ❌ | 24/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/pp4pp/2p5/4p3/4P3/P2q2P1/1P1rNK1P/2R5 b - - 2 27">Link</a> | Rapid |
 | **xTriixrx** | Neykev | resigned ❌ | 24/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/1pp2p2/p3p1bp/4P1p1/2q1P3/P1N2P2/1P4PP/R1BQ1R1K w kq - 0 14">Link</a> | Rapid |
 | jhaji9243 | **xTriixrx** | resigned ❌ | 24/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/8/1p2k2p/pRp3p1/P1P1K3/3P1P1P/6P1/8 b - - 2 36">Link</a> | Rapid |
@@ -85,7 +86,6 @@
 | **xTriixrx** | jogador76 | win 🥇 | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4P2k/6p1/1P6/5p2/5P2/1P4PP/5RK1 b - - 0 36">Link</a> | Rapid |
 | ZawMyoOo123 | **xTriixrx** | resigned ❌ | 28/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/ppp2ppp/2nb1q2/4N3/3PQPb1/2P5/PP4PP/R1B2RK1 b - - 2 17">Link</a> | Rapid |
 | **xTriixrx** | Maxsaron | resigned ❌ | 27/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2nr/ppNk1pbp/2p3p1/5b2/2B5/4P3/PP3PPP/R1B2RK1 w - - 2 13">Link</a> | Rapid |
-| SkySparrowChess | **xTriixrx** | resigned ❌ | 26/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1k3/P1p5/4p1p1/3nP1P1/2N2PK1/2P5/8 b - - 0 33">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
