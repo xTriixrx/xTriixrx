@@ -71,21 +71,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 951 | 570 | 187 |
+| Current | 943 | 570 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **xTriixrx** | keven-eleven | resigned ❌ | 14/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/pppp1p2/6np/4P3/3qP1p1/6B1/PPPN1PPP/R3KB1R w KQkq - 0 12">Link</a> | Rapid |
+| Blunder-Discoverer | **xTriixrx** | repetition ⏸️ | 13/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/pN1Q2pp/8/3P4/8/6P1/P2q2K1/R3R3 w - - 13 35">Link</a> | Rapid |
+| **xTriixrx** | iduman4 | resigned ❌ | 12/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/ppp2ppp/4p3/3p4/3P4/2PBNP2/P1P3PP/R4K1R b - - 3 14">Link</a> | Rapid |
+| **xTriixrx** | azmer0987 | win 🥇 | 12/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/8/P7/1pRp1kp1/1P6/4QP2/5K2 b - - 1 45">Link</a> | Rapid |
 | **xTriixrx** | zzz533 | win 🥇 | 8/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1k/5p2/p7/2p5/6P1/5P2/5PK1/8 b - - 0 35">Link</a> | Rapid |
 | assassination1943 | **xTriixrx** | resigned ❌ | 6/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1ppR1Q1p/p1n2p2/P1P1p1q1/8/6P1/5PKP/8 b - - 0 31">Link</a> | Rapid |
 | jacksonschulze | **xTriixrx** | win 🥇 | 6/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/6pp/5p2/1r6/8/6PK/p6P/R7 w - - 2 41">Link</a> | Rapid |
 | **xTriixrx** | naUsernamedobesaru | win 🥇 | 6/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2p2ppp/8/8/2BP4/2n1P3/5PPP/5RK1 w - - 0 23">Link</a> | Rapid |
 | **xTriixrx** | Chicofso8 | win 🥇 | 6/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1r1n2/ppq1kQpp/3Np3/3pP3/1P3P2/P3P3/6PP/R1B2RK1 b - - 0 17">Link</a> | Rapid |
 | elguapo2288 | **xTriixrx** | resigned ❌ | 6/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/pp2k3/2pR3R/2P1p3/4P3/2P1P3/1P2K3/8 b - - 4 36">Link</a> | Rapid |
-| Freddyjvv | **xTriixrx** | resigned ❌ | 6/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/1bp1nppp/1p6/p3p3/8/P1PB3P/2Q2Pq1/4NKNR w - - 0 23">Link</a> | Rapid |
-| **xTriixrx** | cihuutttyy | resigned ❌ | 6/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q3k1/p1p2pbp/2p1rBp1/4P3/8/2N4P/PPP2PP1/3R1RK1 w - - 1 19">Link</a> | Rapid |
-| **xTriixrx** | Qui3tNpc | win 🥇 | 6/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q3k3/p1p2p1p/1p2p3/5n2/2q5/P3P3/5PPP/3R1RK1 b - - 0 22">Link</a> | Rapid |
-| SwapnilPharate | **xTriixrx** | resigned ❌ | 6/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1p4pk/p1bp3p/8/3R4/P7/1P3RPP/6K1 b - - 14 36">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
