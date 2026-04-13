@@ -71,11 +71,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 951 | 570 | 187 |
+| Current | 960 | 570 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| FedeLeone | **xTriixrx** | win 🥇 | 8/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/q6k/3K4/7P/8/6p1/8/8 w - - 0 60">Link</a> | Rapid |
 | **xTriixrx** | 11314pele_spaski | win 🥇 | 26/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P7/8/1Bp3p1/1kP3Kp/5P1P/8/8 b - - 0 50">Link</a> | Rapid |
 | **xTriixrx** | obiM1 | resigned ❌ | 26/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/1p1p4/pP1P4/P1P1p3/4kp2/8/5K2 w - - 0 92">Link</a> | Rapid |
 | gilpina | **xTriixrx** | resigned ❌ | 26/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1r5/5p1k/1p1p1qpp/1p1Pp3/1P5R/P1P2N2/2Q2PK1/7R b - - 3 29">Link</a> | Rapid |
@@ -85,7 +86,6 @@
 | Th3garzmanS | **xTriixrx** | win 🥇 | 26/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1br2/ppp3Q1/3p4/4pn2/5qPK/1PPP3P/P2R4/2R5 w - - 1 33">Link</a> | Rapid |
 | **xTriixrx** | keven-eleven | resigned ❌ | 14/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/pppp1p2/6np/4P3/3qP1p1/6B1/PPPN1PPP/R3KB1R w KQkq - 0 12">Link</a> | Rapid |
 | Blunder-Discoverer | **xTriixrx** | repetition ⏸️ | 13/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/pN1Q2pp/8/3P4/8/6P1/P2q2K1/R3R3 w - - 13 35">Link</a> | Rapid |
-| **xTriixrx** | iduman4 | resigned ❌ | 12/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/ppp2ppp/4p3/3p4/3P4/2PBNP2/P1P3PP/R4K1R b - - 3 14">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
