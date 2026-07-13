@@ -71,11 +71,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 972 | 570 | 187 |
+| Current | 973 | 570 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **xTriixrx** | alonekamikaz | win 🥇 | 11/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pp/4p1p1/1P1p4/3Pk3/4P2P/5QPK/8 b - - 0 34">Link</a> | Rapid |
+| Lasya_karka | **xTriixrx** | resigned ❌ | 7/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q4/p1p1krQ1/1p1ppB2/4p3/4P3/2bP4/P1P2PPP/1R1K3R b - - 0 19">Link</a> | Rapid |
 | **xTriixrx** | 4rm0ni4 | win 🥇 | 5/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2B1r1k1/2n2p1p/3q2p1/p7/8/P4Q1P/5PP1/R3R1K1 b - - 0 25">Link</a> | Rapid |
 | Snazzy_Bob | **xTriixrx** | win 🥇 | 5/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/1ppp1ppp/1p6/3Bp3/4P3/3PQ3/PPn2PPP/R3K1NR w KQ - 0 11">Link</a> | Rapid |
 | **xTriixrx** | Veyyon | win 🥇 | 5/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/p7/8/8/P7/7P/5K2/1k6 b - - 0 41">Link</a> | Rapid |
@@ -84,8 +86,6 @@
 | Sergey_Davik | **xTriixrx** | win 🥇 | 12/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q2r1/2p2p1k/pb1p1p1p/1p2p3/1P2P3/2PP1NBb/1P1Q1PP1/R4RK1 b - - 1 18">Link</a> | Rapid |
 | Mohammed-AL-Dakhily | **xTriixrx** | win 🥇 | 12/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/2p3pp/8/3p4/8/N2QPN2/nqP3PP/1K1R4 w - - 0 25">Link</a> | Rapid |
 | **xTriixrx** | robinpomxe | resigned ❌ | 11/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/1k6/1P4p1/4prP1/4rPK1/5R2/1R6 w - - 0 39">Link</a> | Rapid |
-| Skywalker7792 | **xTriixrx** | resigned ❌ | 6/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/ppp2pp1/4q3/6N1/P2pPQb1/1P1P2P1/7r/2R3K1 b - - 8 30">Link</a> | Rapid |
-| seksaileila | **xTriixrx** | checkmated ❌ | 4/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Rk/7p/p7/1qp5/1p2P3/6RP/PPP2rPK/8 b - - 0 30">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
