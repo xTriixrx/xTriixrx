@@ -71,11 +71,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 975 | 570 | 187 |
+| Current | 983 | 570 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **xTriixrx** | 3dupusr3x | win 🥇 | 21/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2k2/pp1n3B/8/q2p4/3N1bQ1/2N5/PPP5/1K3R1R b - - 0 23">Link</a> | Rapid |
 | **xTriixrx** | tesfaeyesus | checkmated ❌ | 19/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k3r/pp4p1/2p3B1/3p4/N5Q1/6P1/PPP4q/5RK1 w - - 9 27">Link</a> | Rapid |
 | Edgars_Rabe | **xTriixrx** | resigned ❌ | 19/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q1rk1/p1p2ppp/1bB1b3/3Pp3/8/2PPBQ1P/PP3PP1/R3K2R b KQ - 0 14">Link</a> | Rapid |
 | Rorari | **xTriixrx** | win 🥇 | 17/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K6/6p1/8/7k/6p1/8/2Q5 w - - 0 91">Link</a> | Rapid |
@@ -85,7 +86,6 @@
 | **xTriixrx** | alonekamikaz | win 🥇 | 11/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pp/4p1p1/1P1p4/3Pk3/4P2P/5QPK/8 b - - 0 34">Link</a> | Rapid |
 | Lasya_karka | **xTriixrx** | resigned ❌ | 7/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q4/p1p1krQ1/1p1ppB2/4p3/4P3/2bP4/P1P2PPP/1R1K3R b - - 0 19">Link</a> | Rapid |
 | **xTriixrx** | 4rm0ni4 | win 🥇 | 5/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2B1r1k1/2n2p1p/3q2p1/p7/8/P4Q1P/5PP1/R3R1K1 b - - 0 25">Link</a> | Rapid |
-| Snazzy_Bob | **xTriixrx** | win 🥇 | 5/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/1ppp1ppp/1p6/3Bp3/4P3/3PQ3/PPn2PPP/R3K1NR w KQ - 0 11">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
