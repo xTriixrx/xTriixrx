@@ -78,6 +78,13 @@ jobs:
         uses: denoland/setup-deno@v2
         with:
           deno-version: v1.x
+      - name: Limit trophy data to public repositories
+        run: |
+          sed -i \
+            's/repositories(first: 100, ownerAffiliations:/repositories(first: 100, privacy: PUBLIC, ownerAffiliations:/' \
+            .trophy-generator/src/github_api_client.ts
+          grep --quiet 'repositories(first: 100, privacy: PUBLIC,' \
+            .trophy-generator/src/github_api_client.ts
       - name: Generate filtered GitHub trophy SVG locally
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
