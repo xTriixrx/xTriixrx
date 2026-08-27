@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://github.com/xTriixrx">
-<img src="./github-trophies.svg" alt="xTriixrx GitHub trophies" />
+<img src="./github-trophies.svg" alt="xTriixrx Github Trophies Missing!" />
 </a>
 </p>
 

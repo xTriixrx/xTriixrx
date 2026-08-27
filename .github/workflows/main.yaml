@@ -68,12 +68,43 @@ jobs:
         with:
           ref: master
       - run: git pull
-      - name: Generate GitHub trophy SVG
-        uses: soulteary/github-profile-trophy-action@v1.0.0
+      - name: Checkout GitHub trophy generator
+        uses: actions/checkout@v7
         with:
-          options: 'username=xTriixrx&theme=tokyonight&column=2&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B'
-          path: github-trophies.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: lucthienphong1120/github-trophies
+          ref: 8ed4ccda2839a520a250184eba4bf67c7626cb87
+          path: .trophy-generator
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v1.x
+      - name: Generate filtered GitHub trophy SVG locally
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo '/.trophy-generator/' >> .git/info/exclude
+          deno run --allow-net --allow-read --allow-env \
+            .trophy-generator/debug.ts &
+          server_pid=$!
+          cleanup() {
+            kill "$server_pid" 2>/dev/null || true
+            wait "$server_pid" 2>/dev/null || true
+            rm -f github-trophies.svg.tmp
+          }
+          trap cleanup EXIT
+
+          for attempt in {1..10}; do
+            if curl --fail --silent --show-error \
+              'http://127.0.0.1:8080/?username=xTriixrx&theme=tokyonight&column=2&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B' \
+              --output github-trophies.svg.tmp; then
+              break
+            fi
+            sleep 1
+          done
+
+          test -s github-trophies.svg.tmp
+          grep --quiet '<svg' github-trophies.svg.tmp
+          mv github-trophies.svg.tmp github-trophies.svg
       - name: Commit and Push new GitHub Trophy SVG to the repository
         uses: devops-infra/action-commit-push@v1.5.0
         with:
