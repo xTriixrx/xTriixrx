@@ -1,8 +1,9 @@
-name: LANGUAGE Image & Chess.com
+name: Profile Stats & Chess.com
 
 on:
   schedule:
     - cron: '45 23 * * 0' # Execute cron every Sunday at 11:45PM
+  workflow_dispatch:
 
 jobs:
   remove-image:
@@ -54,8 +55,33 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: Automated Language Chart Update
+  trophies:
+    needs: build-image
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout current repository to Master branch
+        uses: actions/checkout@v4
+        with:
+          ref: master
+      - run: git pull
+      - name: Generate GitHub trophy SVG
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: xTriixrx
+          output_path: github-trophies.svg
+          theme: tokyonight
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and Push new GitHub Trophy SVG to the repository
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: Automated GitHub Trophy Update
   chess:
-    needs: [remove-image, build-image]
+    needs: trophies
     runs-on: ubuntu-latest
 
     steps:
