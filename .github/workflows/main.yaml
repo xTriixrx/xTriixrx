@@ -95,8 +95,12 @@ jobs:
             .trophy-generator/src/user_info.ts)" -eq 2
       - name: Generate filtered GitHub trophy SVG locally
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TROPHY_TOKEN }}
         run: |
+          if [ -z "$GITHUB_TOKEN" ]; then
+            echo 'The TROPHY_TOKEN repository secret is required.' >&2
+            exit 1
+          fi
           echo '/.trophy-generator/' >> .git/info/exclude
           deno run --allow-net --allow-read --allow-env \
             .trophy-generator/debug.ts &
@@ -119,7 +123,11 @@ jobs:
 
           test -s github-trophies.svg.tmp
           grep --quiet '<svg' github-trophies.svg.tmp
+          grep --quiet '>MultiLanguage<' github-trophies.svg.tmp
           mv github-trophies.svg.tmp github-trophies.svg
+          sed -i -E \
+            "s#github-trophies\.svg(\?v=[0-9]+)?#github-trophies.svg?v=${GITHUB_RUN_ID}#" \
+            README.md
       - name: Commit and Push new GitHub Trophy SVG to the repository
         uses: devops-infra/action-commit-push@v1.5.0
         with:
