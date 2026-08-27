@@ -71,11 +71,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 570 | 187 |
+| Current | 991 | 570 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **xTriixrx** | gahramanf | resigned ❌ | 27/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/7p/3P2p1/4b1P1/8/3K4/8 w - - 0 49">Link</a> | Rapid |
+| PMQus | **xTriixrx** | resigned ❌ | 27/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pppn3p/1bk1Q3/6B1/7P/6P1/PPP5/RN2KB1b b Q - 4 19">Link</a> | Rapid |
 | **xTriixrx** | imbaia | checkmated ❌ | 25/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/3b4/2p1p2p/1p1nP2Q/p7/PKPB4/5rPP/3R3R w - - 0 27">Link</a> | Rapid |
 | **xTriixrx** | Mzh1978 | win 🥇 | 25/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/8/1k4P1/1p6/1Q6/8/8 b - - 0 52">Link</a> | Rapid |
 | DownhillDomination | **xTriixrx** | resigned ❌ | 25/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/6p1/1P3p1p/P7/4P3/1b1BKP1P/8/1R6 w - - 5 39">Link</a> | Rapid |
@@ -84,8 +86,6 @@
 | maqnas | **xTriixrx** | resigned ❌ | 21/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4rk2/6R1/5K1p/7P/8/6P1/8 b - - 0 53">Link</a> | Rapid |
 | **xTriixrx** | sancheusgg | win 🥇 | 21/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/p7/8/4P3/4kPR1/PPP2R2/4K3 b - - 0 33">Link</a> | Rapid |
 | shanky22k | **xTriixrx** | win 🥇 | 21/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/r7/5k2/8/8/6K1/3qq3 w - - 0 56">Link</a> | Rapid |
-| **xTriixrx** | samuel-avossey | resigned ❌ | 21/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/6pp/8/1Q6/3P4/PKP5/3B1p2/1q6 w - - 2 40">Link</a> | Rapid |
-| **xTriixrx** | Sortab | win 🥇 | 21/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q3kbnr/p1p1pppp/1p2b3/B3N3/2pP4/4P3/Pq2BPPP/R4RK1 b k - 0 13">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
