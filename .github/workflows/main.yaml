@@ -69,11 +69,10 @@ jobs:
           ref: master
       - run: git pull
       - name: Generate GitHub trophy SVG
-        uses: ryo-ma/github-profile-trophy@master
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          username: xTriixrx
-          output_path: ./github-trophies.svg
-          theme: tokyonight
+          options: 'username=xTriixrx&theme=tokyonight&column=2&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B'
+          path: github-trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and Push new GitHub Trophy SVG to the repository
         uses: devops-infra/action-commit-push@v1.5.0
