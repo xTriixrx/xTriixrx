@@ -25,7 +25,11 @@
 
 <p align="center">
 <a href="https://github.com/xTriixrx">
+<<<<<<< Updated upstream
 <img src="./github-trophies.svg?v=33049499943" alt="xTriixrx Github Trophies Missing!" />
+=======
+<img src="./github-trophies.svg" alt="xTriixrx Github Trophies Missing!" />
+>>>>>>> Stashed changes
 </a>
 </p>
 

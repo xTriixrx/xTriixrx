@@ -125,9 +125,6 @@ jobs:
           grep --quiet '<svg' github-trophies.svg.tmp
           grep --quiet '>MultiLanguage<' github-trophies.svg.tmp
           mv github-trophies.svg.tmp github-trophies.svg
-          sed -i -E \
-            "s#github-trophies\.svg(\?v=[0-9]+)?#github-trophies.svg?v=${GITHUB_RUN_ID}#" \
-            README.md
       - name: Commit and Push new GitHub Trophy SVG to the repository
         uses: devops-infra/action-commit-push@v1.5.0
         with:
