@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout current repository to Master branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
       - name: Remove old language-graph.png file
         run: |
           if [ -f "language-graph.png" ]; then
@@ -19,7 +19,7 @@ jobs:
             rm language-graph.png
           fi
       - name: Commit and Push Removed Language Image to the repository
-        uses: devops-infra/action-commit-push@master
+        uses: devops-infra/action-commit-push@v1.5.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: Automated Language Chart Removal
@@ -31,16 +31,16 @@ jobs:
 
     steps:
       - name: Checkout current repository to Master branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
         with:
           ref: master
       - run: git pull
-      - name: Setup NodeJs 16.x
-        uses: actions/setup-node@v3
+      - name: Setup Node.js 24.x
+        uses: actions/setup-node@v7
         with:
-          node-version: 16
+          node-version: 24
       - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v3
+        uses: actions/cache@v6
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
@@ -51,7 +51,7 @@ jobs:
       - name: Generate LANGUAGE Image file
         run: node index.js
       - name: Commit and Push new LANGUAGE Image to the repository
-        uses: devops-infra/action-commit-push@master
+        uses: devops-infra/action-commit-push@v1.5.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: Automated Language Chart Update
@@ -64,7 +64,7 @@ jobs:
 
     steps:
       - name: Checkout current repository to Master branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: master
       - run: git pull
@@ -72,11 +72,11 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: xTriixrx
-          output_path: github-trophies.svg
+          output_path: ./github-trophies.svg
           theme: tokyonight
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and Push new GitHub Trophy SVG to the repository
-        uses: devops-infra/action-commit-push@master
+        uses: devops-infra/action-commit-push@v1.5.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: Automated GitHub Trophy Update
@@ -86,7 +86,7 @@ jobs:
 
     steps:
       - name: Checkout current repository to Master branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
         with:
           ref: master
       - run: git pull
