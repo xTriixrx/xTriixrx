@@ -1,0 +1,44 @@
+{
+  "version": "3",
+  "remote": {
+    "https://deno.land/std@0.125.0/async/deadline.ts": "edbdf6cd7a5e3337c4c24c9b616491f8f1d61d36fc415d5d5b4af33557de0d23",
+    "https://deno.land/std@0.125.0/async/debounce.ts": "3cf9306b4e9038ee3238111e338f412ecf3541b1a97ba9fc1f960be8af5a5f39",
+    "https://deno.land/std@0.125.0/async/deferred.ts": "677692a2399d4cabbc45e06abe4f585afd6196c59e24a98edb866598af9f0eef",
+    "https://deno.land/std@0.125.0/async/delay.ts": "f38013c800f5129b14fdbf41fb4f4fbaf9525f69f4266946e14d0cf57c830b0c",
+    "https://deno.land/std@0.125.0/async/mod.ts": "a28709190a1966cb50e5815ef269bb588ee192373cde73b1096641820dc52a36",
+    "https://deno.land/std@0.125.0/async/mux_async_iterator.ts": "35561f258d32c77170f9d1faf3d650890fb6502d5fe12f505c050b4ea1aee899",
+    "https://deno.land/std@0.125.0/async/pool.ts": "97b0dd27c69544e374df857a40902e74e39532f226005543eabacb551e277082",
+    "https://deno.land/std@0.125.0/async/tee.ts": "518c7bfd5184c8cd92b47115026a6a2243e81d83e2c3e71c2aa5cdb5988998b1",
+    "https://deno.land/std@0.125.0/http/server.ts": "10c3a7814666cdbabd6f9c18acdcc4593e222275a628280a4868881445fbb5bc",
+    "https://deno.land/x/dotenv@v0.5.0/load.ts": "4eba9b76084c302d714c34a4976bbd91d0015faf9f219d8c8f8e8da0adeccdd5",
+    "https://deno.land/x/dotenv@v0.5.0/mod.ts": "7c746f2f889812e6d467279d5c4603e9d21fa025f353386e35aec66702d4bf51",
+    "https://deno.land/x/dotenv@v0.5.0/util.ts": "15875ce1e2840d3d3c7b0f74d699218be065c23accd0737993cbf51ea216d0c5",
+    "https://deno.land/x/soxa@1.4/mod.ts": "a3a0e40fae436ef6529075df9d6d2bf2f00062be9830e5cd6cdc5674a196e3ff",
+    "https://deno.land/x/soxa@1.4/src/adapters/fetchAdapter.ts": "c82c0fc470893e1686a5621f08162177ce66896f087aa456d17d9f31df86c2ad",
+    "https://deno.land/x/soxa@1.4/src/cancel/isCancel.ts": "10f7e40cb287c978ffad63d0b9bb6a3bbdf618a48caba262d48ef2c6ddfe1184",
+    "https://deno.land/x/soxa@1.4/src/core/InterceptorManager.ts": "8bab649bdf0a75e9b40e34bb75ef7d554fba691fd288224f74d3283c3df0d4ef",
+    "https://deno.land/x/soxa@1.4/src/core/Soxa.ts": "5e0a21ffad278df658c13815d53a7b3c074e4246879d87882d50423c10a6eb7c",
+    "https://deno.land/x/soxa@1.4/src/core/buildFullPath.ts": "955a38ff6d955920acc98112ddca199dfa4c87fa4223870a787efea302ff3d1e",
+    "https://deno.land/x/soxa@1.4/src/core/createError.ts": "977bb8e00438535e989955cd54ea174522dffd84a145a92dffb77ef1957622bc",
+    "https://deno.land/x/soxa@1.4/src/core/dispatchRequest.ts": "4b5c4384f4bb464481eaa439ff1b18af6c9ffad555b5bcdffb382703f73a0c30",
+    "https://deno.land/x/soxa@1.4/src/core/enhanceError.ts": "5cc797baf2f63098e2ce0b80f94a859d4c8f983c149c7cd5ac7ac12231c95c24",
+    "https://deno.land/x/soxa@1.4/src/core/mergeConfig.ts": "6fa4ad4f56d5a7ba2b7488b4ee4706fe75253baf78d8be773b7a67326d208138",
+    "https://deno.land/x/soxa@1.4/src/core/settle.ts": "018c65fa123933a216d64a62efa969c83d8b89c4718fce10b62e8772198a5267",
+    "https://deno.land/x/soxa@1.4/src/core/transformData.ts": "2097f6136c7d55e7687867d0f396f327cc4e08b3ae52ee4db4ebe7365f0d0a96",
+    "https://deno.land/x/soxa@1.4/src/defaults.ts": "27310424ad2f4c050584c323cd1af67f7128704fce16eb94e49edd2ecb87e4ca",
+    "https://deno.land/x/soxa@1.4/src/helpers/buildURL.ts": "a758ff641760c955a5fe082f2a4778499ebd8257d32b91dc15a5480ee300f967",
+    "https://deno.land/x/soxa@1.4/src/helpers/combineURLs.ts": "b10ae9495ca160d6b3d0deb4bbaba56b7a31a7e68d66369981d3443ec34fe615",
+    "https://deno.land/x/soxa@1.4/src/helpers/isAbsoluteURL.ts": "352cdad3ae7d090cc1ca3ba5058ec8950fad95b9855a1d654327926d52f46ef1",
+    "https://deno.land/x/soxa@1.4/src/helpers/normalizeHeaderName.ts": "04480141eadf968e35d02c3d0d238640f0cde9ddf136801d1ba89da087991253",
+    "https://deno.land/x/soxa@1.4/src/soxa.ts": "dc439006e9594292865f4a162b378865dbf9805d42d67a075b15b2e865be8603",
+    "https://deno.land/x/soxa@1.4/src/utils.ts": "51164daf015f737a5d4d26090d69c3496005258a1fd747a708ad30acec6ea2cb"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:node-fetch@latest",
+        "npm:playwright@latest"
+      ]
+    }
+  }
+}
