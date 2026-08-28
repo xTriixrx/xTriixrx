@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_1 }}&theme=tokyonight&hide_border=true
+          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_1 }}&theme=tokyonight&hide_border=true&description_lines_count=3&card_width=400
           path: profile/featured-repo-1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -43,7 +43,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_2 }}&theme=tokyonight&hide_border=true
+          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_2 }}&theme=tokyonight&hide_border=true&description_lines_count=3&card_width=400
           path: profile/featured-repo-2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -51,7 +51,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_3 }}&theme=tokyonight&hide_border=true
+          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_3 }}&theme=tokyonight&hide_border=true&description_lines_count=3&card_width=400
           path: profile/featured-repo-3.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -59,7 +59,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_4 }}&theme=tokyonight&hide_border=true
+          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_4 }}&theme=tokyonight&hide_border=true&description_lines_count=3&card_width=400
           path: profile/featured-repo-4.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -67,7 +67,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_5 }}&theme=tokyonight&hide_border=true
+          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_5 }}&theme=tokyonight&hide_border=true&description_lines_count=3&card_width=400
           path: profile/featured-repo-5.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -75,7 +75,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_6 }}&theme=tokyonight&hide_border=true
+          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_6 }}&theme=tokyonight&hide_border=true&description_lines_count=3&card_width=400
           path: profile/featured-repo-6.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -83,8 +83,16 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&layout=compact&langs_count=10
+          options: username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=845
           path: profile/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - name: Generate GitHub statistics card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&card_width=845
+          path: profile/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
       - name: Update featured repository links

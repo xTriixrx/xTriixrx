@@ -46,20 +46,17 @@
 
 <div align="center">
 
-![Top Languages](./profile/top-languages.svg)
+<img width="100%" src="./profile/top-languages.svg" alt="Active languages chart missing" />
 
 </div>
 
 ## My Statistics
 
-<br/>
-<p align="left">
-  <a href="https://dev.to/xtriixrx">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=xTriixrx&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=xTriixrx&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/xTriixrx">
+    <img width="100%" src="./profile/github-stats.svg" alt="xTriixrx GitHub statistics missing" />
   </a>
 </p>
-<br>
 
 ## Chess Statistics
 
