@@ -97,7 +97,7 @@
 <i>A dev joke for making it this far!</i>
 
 <a href="https://readme-jokes.vercel.app/">
-  <img width="100%" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="ReadMe Jokes" />
+  <img width="100%" src="./profile/dev-joke.svg" alt="ReadMe Jokes" />
 </a>
 
 </div>

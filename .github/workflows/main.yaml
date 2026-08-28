@@ -97,6 +97,8 @@ jobs:
           path: profile/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+      - name: Generate full-width dev joke card
+        run: bash .github/scripts/generate-dev-joke.sh
       - name: Update featured repository links
         env:
           REPO_1_URL: ${{ steps.featured.outputs.url_1 }}
