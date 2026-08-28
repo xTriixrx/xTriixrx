@@ -29,24 +29,24 @@
 </a>
 </p>
 
-## Top Repositories
+## Featured Repositories
 
-<p align="left">
-  <a href="https://github.com/xTriixrx?tab=repositories">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=xTriixrx&repo=satpy-scrapy&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=xTriixrx&repo=DLX&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=xTriixrx&repo=animation.js&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=xTriixrx&repo=BitMapC&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=xTriixrx&repo=Conways-Game-of-Life&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=xTriixrx&repo=Battleship&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
+<!-- FEATURED_REPOSITORIES_START -->
+<p align="center">
+  <a href="FEATURED_REPO_1_URL"><img width="49.5%" src="./profile/featured-repo-1.svg" alt="Featured repository 1 missing" /></a>
+  <a href="FEATURED_REPO_2_URL"><img width="49.5%" src="./profile/featured-repo-2.svg" alt="Featured repository 2 missing" /></a>
+  <a href="FEATURED_REPO_3_URL"><img width="49.5%" src="./profile/featured-repo-3.svg" alt="Featured repository 3 missing" /></a>
+  <a href="FEATURED_REPO_4_URL"><img width="49.5%" src="./profile/featured-repo-4.svg" alt="Featured repository 4 missing" /></a>
+  <a href="FEATURED_REPO_5_URL"><img width="49.5%" src="./profile/featured-repo-5.svg" alt="Featured repository 5 missing" /></a>
+  <a href="FEATURED_REPO_6_URL"><img width="49.5%" src="./profile/featured-repo-6.svg" alt="Featured repository 6 missing" /></a>
 </p>
+<!-- FEATURED_REPOSITORIES_END -->
 
 ## Active Languages Chart
 
 <div align="center">
 
-[![Top Languages](https://github.com/xTriixrx/xTriixrx/blob/master/language-graph.png?raw=true)](https://ionicabizau.github.io/github-profile-languages/api.html?xTriixrx)
+![Top Languages](./profile/top-languages.svg)
 
 </div>
 

@@ -1,62 +1,18 @@
 name: Profile Stats & Chess.com
 
 on:
+  push:
+    branches:
+      - master
+    paths:
+      - .github/workflows/main.yaml
+      - .github/scripts/**
   schedule:
     - cron: '45 23 * * 0' # Execute cron every Sunday at 11:45PM
   workflow_dispatch:
 
 jobs:
-  remove-image:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout current repository to Master branch
-        uses: actions/checkout@v7
-      - name: Remove old language-graph.png file
-        run: |
-          if [ -f "language-graph.png" ]; then
-            echo "Removing old Languages Chart"
-            rm language-graph.png
-          fi
-      - name: Commit and Push Removed Language Image to the repository
-        uses: devops-infra/action-commit-push@v1.5.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_message: Automated Language Chart Removal
-      - name: Wait 5 seconds for remote to update
-        run: sleep 5
-  build-image:
-    needs: remove-image
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout current repository to Master branch
-        uses: actions/checkout@v7
-        with:
-          ref: master
-      - run: git pull
-      - name: Setup Node.js 24.x
-        uses: actions/setup-node@v7
-        with:
-          node-version: 24
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v6
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
-        run: |
-          npm install
-          npx playwright install
-      - name: Generate LANGUAGE Image file
-        run: node index.js
-      - name: Commit and Push new LANGUAGE Image to the repository
-        uses: devops-infra/action-commit-push@v1.5.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_message: Automated Language Chart Update
-  trophies:
-    needs: build-image
+  stats-assets:
     runs-on: ubuntu-latest
 
     permissions:
@@ -67,7 +23,96 @@ jobs:
         uses: actions/checkout@v7
         with:
           ref: master
-      - run: git pull
+      - name: Select featured repositories
+        id: featured
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+        run: bash .github/scripts/select-featured-repositories.sh
+      - name: Prepare generated asset directory
+        run: bash .github/scripts/prepare-profile-assets.sh
+      - name: Generate featured repository card 1
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_1 }}&theme=tokyonight&hide_border=true
+          path: profile/featured-repo-1.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - name: Generate featured repository card 2
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_2 }}&theme=tokyonight&hide_border=true
+          path: profile/featured-repo-2.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - name: Generate featured repository card 3
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_3 }}&theme=tokyonight&hide_border=true
+          path: profile/featured-repo-3.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - name: Generate featured repository card 4
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_4 }}&theme=tokyonight&hide_border=true
+          path: profile/featured-repo-4.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - name: Generate featured repository card 5
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_5 }}&theme=tokyonight&hide_border=true
+          path: profile/featured-repo-5.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - name: Generate featured repository card 6
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=${{ steps.featured.outputs.repo_6 }}&theme=tokyonight&hide_border=true
+          path: profile/featured-repo-6.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - name: Generate active languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&layout=compact&langs_count=10
+          path: profile/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - name: Update featured repository links
+        env:
+          REPO_1_URL: ${{ steps.featured.outputs.url_1 }}
+          REPO_2_URL: ${{ steps.featured.outputs.url_2 }}
+          REPO_3_URL: ${{ steps.featured.outputs.url_3 }}
+          REPO_4_URL: ${{ steps.featured.outputs.url_4 }}
+          REPO_5_URL: ${{ steps.featured.outputs.url_5 }}
+          REPO_6_URL: ${{ steps.featured.outputs.url_6 }}
+        run: bash .github/scripts/update-featured-repository-links.sh
+      - name: Commit and push generated stats assets
+        uses: devops-infra/action-commit-push@v1.5.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: Automated Profile Stats Update
+  trophies:
+    needs: stats-assets
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout current repository to Master branch
+        uses: actions/checkout@v7
+        with:
+          ref: master
       - name: Checkout GitHub trophy generator
         uses: actions/checkout@v7
         with:
@@ -79,52 +124,11 @@ jobs:
         with:
           deno-version: v1.x
       - name: Apply GitHub API compatibility fixes
-        run: |
-          sed -i \
-            's/repositories(first: 100, ownerAffiliations:/repositories(first: 100, privacy: PUBLIC, ownerAffiliations:/' \
-            .trophy-generator/src/github_api_client.ts
-          sed -i \
-            's/userRepository.repositories.nodes.reduce(/userRepository.repositories.nodes.filter((node) => node != null).reduce(/' \
-            .trophy-generator/src/user_info.ts
-          sed -i \
-            's/userRepository.repositories.nodes.forEach(/userRepository.repositories.nodes.filter((node) => node != null).forEach(/' \
-            .trophy-generator/src/user_info.ts
-          grep --quiet 'repositories(first: 100, privacy: PUBLIC,' \
-            .trophy-generator/src/github_api_client.ts
-          test "$(grep --count 'filter((node) => node != null)' \
-            .trophy-generator/src/user_info.ts)" -eq 2
+        run: bash .github/scripts/patch-trophy-generator.sh
       - name: Generate filtered GitHub trophy SVG locally
         env:
           GITHUB_TOKEN: ${{ secrets.TROPHY_TOKEN }}
-        run: |
-          if [ -z "$GITHUB_TOKEN" ]; then
-            echo 'The TROPHY_TOKEN repository secret is required.' >&2
-            exit 1
-          fi
-          echo '/.trophy-generator/' >> .git/info/exclude
-          deno run --allow-net --allow-read --allow-env \
-            .trophy-generator/debug.ts &
-          server_pid=$!
-          cleanup() {
-            kill "$server_pid" 2>/dev/null || true
-            wait "$server_pid" 2>/dev/null || true
-            rm -f github-trophies.svg.tmp
-          }
-          trap cleanup EXIT
-
-          for attempt in {1..10}; do
-            if curl --fail --silent --show-error \
-              'http://127.0.0.1:8080/?username=xTriixrx&theme=tokyonight&column=2&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B' \
-              --output github-trophies.svg.tmp; then
-              break
-            fi
-            sleep 1
-          done
-
-          test -s github-trophies.svg.tmp
-          grep --quiet '<svg' github-trophies.svg.tmp
-          grep --quiet '>MultiLanguage<' github-trophies.svg.tmp
-          mv github-trophies.svg.tmp github-trophies.svg
+        run: bash .github/scripts/generate-trophies.sh
       - name: Commit and Push new GitHub Trophy SVG to the repository
         uses: devops-infra/action-commit-push@v1.5.0
         with:
@@ -139,7 +143,6 @@ jobs:
         uses: actions/checkout@v7
         with:
           ref: master
-      - run: git pull
       - name: Update readme with your chess stats and games
         uses: Balastrong/chess-stats-action@main
         with:
