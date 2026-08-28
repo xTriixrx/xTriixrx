@@ -8,7 +8,9 @@
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="175" height="175
 " frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-<img align='right' src="https://media.giphy.com/media/DsDtZSnCC3PZL3lbbW/giphy.gif" width="200">
+<div align="right">
+  <img src="https://media.giphy.com/media/DsDtZSnCC3PZL3lbbW/giphy.gif" width="200" alt="It's not a bug, it's a feature" />
+</div>
 
 ## About Me
 
@@ -25,7 +27,7 @@
 
 <p align="center">
 <a href="https://github.com/xTriixrx">
-<img src="./github-trophies.svg" alt="xTriixrx Github Trophies Missing!" />
+<img width="100%" src="./github-trophies.svg" alt="xTriixrx Github Trophies Missing!" />
 </a>
 </p>
 

@@ -79,6 +79,8 @@ jobs:
           path: profile/featured-repo-6.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+      - name: Normalize featured repository card dimensions
+        run: bash .github/scripts/normalize-featured-repository-cards.sh
       - name: Generate active languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
