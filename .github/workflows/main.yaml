@@ -139,6 +139,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TROPHY_TOKEN }}
         run: bash .github/scripts/generate-trophies.sh
+      - name: Center incomplete GitHub trophy rows
+        run: perl .github/scripts/layout-trophies.pl github-trophies.svg
       - name: Commit and Push new GitHub Trophy SVG to the repository
         uses: devops-infra/action-commit-push@v1.5.0
         with:

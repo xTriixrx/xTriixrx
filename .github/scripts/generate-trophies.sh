@@ -7,7 +7,7 @@ set -Eeuo pipefail
 generator_path="${1:-.trophy-generator}"
 output_path="${2:-github-trophies.svg}"
 temporary_output="${output_path}.tmp"
-trophy_url='http://127.0.0.1:8080/?username=xTriixrx&theme=tokyonight&column=6&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B'
+trophy_url='http://127.0.0.1:8080/?username=xTriixrx&theme=tokyonight&column=4&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B'
 
 echo "/${generator_path}/" >> .git/info/exclude
 (
