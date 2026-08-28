@@ -33,12 +33,12 @@
 
 <!-- FEATURED_REPOSITORIES_START -->
 <p align="center">
-  <a href="FEATURED_REPO_1_URL"><img width="49.5%" src="./profile/featured-repo-1.svg" alt="Featured repository 1 missing" /></a>
-  <a href="FEATURED_REPO_2_URL"><img width="49.5%" src="./profile/featured-repo-2.svg" alt="Featured repository 2 missing" /></a>
-  <a href="FEATURED_REPO_3_URL"><img width="49.5%" src="./profile/featured-repo-3.svg" alt="Featured repository 3 missing" /></a>
-  <a href="FEATURED_REPO_4_URL"><img width="49.5%" src="./profile/featured-repo-4.svg" alt="Featured repository 4 missing" /></a>
-  <a href="FEATURED_REPO_5_URL"><img width="49.5%" src="./profile/featured-repo-5.svg" alt="Featured repository 5 missing" /></a>
-  <a href="FEATURED_REPO_6_URL"><img width="49.5%" src="./profile/featured-repo-6.svg" alt="Featured repository 6 missing" /></a>
+  <a href="https://github.com/xTriixrx/satpy-scrapy"><img width="49.5%" src="./profile/featured-repo-1.svg" alt="Featured repository 1 missing" /></a>
+  <a href="https://github.com/xTriixrx/CLISP"><img width="49.5%" src="./profile/featured-repo-2.svg" alt="Featured repository 2 missing" /></a>
+  <a href="https://github.com/xTriixrx/PeachOS"><img width="49.5%" src="./profile/featured-repo-3.svg" alt="Featured repository 3 missing" /></a>
+  <a href="https://github.com/xTriixrx/iridium"><img width="49.5%" src="./profile/featured-repo-4.svg" alt="Featured repository 4 missing" /></a>
+  <a href="https://github.com/xTriixrx/QLOS"><img width="49.5%" src="./profile/featured-repo-5.svg" alt="Featured repository 5 missing" /></a>
+  <a href="https://github.com/xTriixrx/Conways-Game-of-Life"><img width="49.5%" src="./profile/featured-repo-6.svg" alt="Featured repository 6 missing" /></a>
 </p>
 <!-- FEATURED_REPOSITORIES_END -->
 
