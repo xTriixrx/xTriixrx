@@ -65,11 +65,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 983 | 570 | 187 |
+| Current | 975 | 570 | 187 |
 | Best | 1227 | 748 | 370 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **xTriixrx** | Rekt93 | resigned ❌ | 3/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/1p1n1ppp/p3p3/q3P3/8/2N5/PP2QPPP/3R1RK1 w - - 5 18">Link</a> | Rapid |
 | R03220324y | **xTriixrx** | repetition ⏸️ | 30/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp3qp/3bb1p1/4ppB1/2P2n1Q/2P3NP/PP3PP1/RN3RK1 w - - 9 20">Link</a> | Rapid |
 | josemiguelbravo | **xTriixrx** | resigned ❌ | 30/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/6pk/8/1pR1p1p1/8/2P2PKP/2P2P2/8 b - - 3 29">Link</a> | Rapid |
 | **xTriixrx** | gahramanf | resigned ❌ | 27/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/7p/3P2p1/4b1P1/8/3K4/8 w - - 0 49">Link</a> | Rapid |
@@ -79,7 +80,6 @@
 | DownhillDomination | **xTriixrx** | resigned ❌ | 25/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/6p1/1P3p1p/P7/4P3/1b1BKP1P/8/1R6 w - - 5 39">Link</a> | Rapid |
 | kingkongcz | **xTriixrx** | win 🥇 | 24/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/p1p3p1/2P2kP1/1P3p2/P4K2/8/8 w - - 2 45">Link</a> | Rapid |
 | **xTriixrx** | HappyKelf | resigned ❌ | 21/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r2k/p1p1pQ2/1p4pB/3Rb3/4b3/7P/PPq3P1/5R1K w - - 2 22">Link</a> | Rapid |
-| maqnas | **xTriixrx** | resigned ❌ | 21/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4rk2/6R1/5K1p/7P/8/6P1/8 b - - 0 53">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
